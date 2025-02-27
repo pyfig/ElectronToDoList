@@ -14,4 +14,4 @@ npm run dev
 
 boom! we are ready to use this todolist based on electron and vue3
 
-
+made in-one-commit because retard can't push w/o node_modules  
