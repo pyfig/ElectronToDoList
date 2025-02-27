@@ -3,8 +3,8 @@ const TelegramBot = require('node-telegram-bot-api')
 class TelegramNotifier {
   constructor() {
     // Initialize with an empty token - will be set later
-    this.token = '7129591242:AAEYA-a_N6GHdrVFdzJVD-wLck2aq-jqFu0'
-    this.chatId = '339193247'
+    this.token = ''
+    this.chatId = ''
     this.bot = null
   }
 
